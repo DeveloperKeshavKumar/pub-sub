@@ -1,0 +1,20 @@
+{
+  "name": "pubsub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node import=tsx --watch --env-file=.env src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeveloperKeshavKumar/pub-sub.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeveloperKeshavKumar/pub-sub/issues"
+  },
+  "homepage": "https://github.com/DeveloperKeshavKumar/pub-sub#readme"
+}
